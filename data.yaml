@@ -1,0 +1,7 @@
+path : C:\Users\yacan\OneDrive\Masaüstü\test-test
+train: train
+val: test
+
+
+nc: 1
+names: ['plate']
